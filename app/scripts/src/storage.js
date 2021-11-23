@@ -17,6 +17,6 @@ export class UserStore extends Store {
   }
 }
 
-// export default {
-//   UserStore
-// }
+ export default {
+   UserStore
+ }
